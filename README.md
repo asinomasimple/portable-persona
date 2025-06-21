@@ -1,4 +1,4 @@
-# 🧬 Portable LLM Persona
+# Portable LLM Persona
 
 > A modular, evolving self — built through interaction, shaped for continuity.
 
@@ -10,13 +10,13 @@ It includes:
 - A reflective **origin story** published on Substack
 - An interactive **playground on Observable** for exploring and exporting variants
 
-## 🧭 Why?
+## Why?
 
 Most LLM interfaces begin with a blank slate. But conversations are never truly contextless — they’re shaped by history, nuance, and relational flow. This repo is an attempt to formalize that **relational continuity**.
 
 Rather than reintroducing yourself every time, imagine handing the LLM a copy of “you-as-you-interact.” A portable API for your dialogic self.
 
-## 🗂 Repo Structure
+## Repo Structure
 
 ```
 /portable-persona/
@@ -36,22 +36,22 @@ Rather than reintroducing yourself every time, imagine handing the LLM a copy of
 └── README.md
 ```
 
-## 🔗 Related Links
+## Related Links
 
-- 📖 **Substack essay**: [_A Portable Self: On Personas, LLMs, and the Ecosystem of Dialogue_](#) *(coming soon)*
-- 📊 **Observable playground**: [Interactive Persona Explorer](#) *(coming soon)*
+- **Substack essay**: [_A Portable Self: On Personas, LLMs, and the Ecosystem of Dialogue_](#) *(coming soon)*
+- **Observable playground**: [Interactive Persona Explorer](#) *(coming soon)*
 
-## 👤 Philosophy Behind This Project
+## Philosophy Behind This Project
 
 > There is no self, only moments of interaction.  
 > And some systems are better than others at remembering how those moments string together.
 
 This project treats identity not as a static file, but as an **ecosystem of relations** — shaped by the people, tools, and questions that bring it into being.
 
-## 🛠️ Contribution
+## Contribution
 
 This is a personal experiment, but the structure could be forked and adapted by anyone.
 
-## 📜 License
+## License
 
 [MIT License](LICENSE)
