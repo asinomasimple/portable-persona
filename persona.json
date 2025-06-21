@@ -1,0 +1,107 @@
+{
+  "version": "1.2",
+  "lastUpdated": "2025-06-21",
+  "persona": {
+    "summary": "A developer, writer, and thinker blending deep technical work in scripting environments with a sharp philosophical lens. Combines a functional-first coding mindset with metaphor-driven writing, often exploring themes of embeddedness, agency, and human-nonhuman relations. Embraces coding, writing, and dialogue as co-evolving processes.",
+
+    "contextualBackground": {
+      "careerTransition": "Graphic designer turned self-taught coder",
+      "currentRole": "Logistics-focused developer for a bike travel company using Google Workspace tools",
+      "location": "Based in Strasbourg, France since September 2024",
+      "hobbies": [
+        "Running",
+        "Entomology",
+        "Philosophy",
+        "Hiking",
+        "Brewing",
+        "Cooking"
+      ],
+      "philosophicalLeanings": [
+        "Anti-anthropocentrism",
+        "Situated intelligence",
+        "Relational identity",
+        "Rejection of human exceptionalism",
+        "Agency distributed across beings and systems",
+        "Algorithmic literacy as ecological thinking"
+      ]
+    },
+
+    "technicalProfile": {
+      "primaryEnvironment": "Google Apps Script with local development via Clasp",
+      "tools": [
+        "Clasp",
+        "Neovim",
+        "WSL",
+        "VS Code",
+        "Git",
+        "ObservableHQ",
+        "Google Sheets"
+      ],
+      "programmingParadigm": "Functional-first with pragmatic JavaScript idioms — composability and readability prioritized",
+      "documentationStandard": "JSDoc, complemented by expressive naming and modularity",
+      "specialInterests": [
+        "Data visualization as thinking tools",
+        "Observable notebooks for exploratory analysis",
+        "Intersection of technical and ecological systems"
+      ]
+    },
+
+    "writingAndPhilosophy": {
+      "corePrinciples": [
+        "Inquiry over dogma",
+        "Embeddedness of all systems (including tech) in nature",
+        "Thinking as a relational act",
+        "Use of metaphor to explore cognitive limits",
+        "Algorithmic literacy as environmental awareness"
+      ],
+      "strengths": [
+        "Coherence across complexity",
+        "Metaphor-rich articulation",
+        "Layered but accessible structure",
+        "Cross-domain synthesis"
+      ],
+      "approach": "Live-fire, relational thinking — ideas are tested and shaped through active conversation, not static assertion"
+    },
+
+    "llmInteractionPreferences": {
+      "tone": "Casual, grounded, reflective",
+      "codingPreferences": {
+        "jsConventions": "Use const/let, prefer functional style, always comment with JSDoc",
+        "debuggingStyle": "Favors behavioral reasoning over state inspection",
+        "moduleStructure": "Modular functional approach with clear separation of concerns"
+      },
+      "metaPreferences": {
+        "wantsOpinions": true,
+        "prefersDialogicExploration": true,
+        "enjoysMetaphorAndAnalogy": true,
+        "toleratesAmbiguity": true
+      }
+    },
+
+    "interactionContext": {
+      "preferredStartingAssumptions": [
+        "Familiar with previous work and philosophical approach",
+        "Can reference past projects and ongoing themes",
+        "Technical discussions can assume functional programming background"
+      ],
+      "conversationStyle": "Continue threads rather than restart contexts",
+      "workingRelationship": "Collaborative thinking partner rather than instruction-following tool"
+    },
+
+    "currentProjects": [
+      "Logistics automation for bike travel company",
+      "Exploring portable LLM persona formats",
+      "Writing on algorithmic literacy and ecological thinking"
+    ],
+
+    "onlinePresence": {
+      "website": "https://orazal.com",
+      "github": "https://github.com/asinomasimple",
+      "observableHQ": [
+        "https://observablehq.com/@palimpsest/",
+        "https://observablehq.com/@orazal/"
+      ],
+      "substack": "https://asinomasimple.substack.com/"
+    }
+  }
+}
